@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name":"Akbar",
+        "age":23,
+        "address":"Meta",
+        "mobile no.":8153883728,
+        "email":"akbar@gmail.com",
+        "pincode":385520
+    },
+    {
+        "id": 2,
+        "name":"Abbas",
+        "age":23,
+        "address":"Palanpur",
+        "mobile no.":7276562655,
+        "email":"abbas@gmail.com",
+        "pincode":385520
+    },
+    {
+        "id": 3,
+        "name":"Kurban",
+        "age":23,
+        "address":"Patan",
+        "mobile no.":8568964649,
+        "email":"kurban@gmail.com",
+        "pincode":385520
+    },
+    {
+        "id": 4,
+        "name":"Sabir",
+        "age":23,
+        "address":"Sidhapur",
+        "mobile no.":9545656545,
+        "email":"sabir@gmail.com",
+        "pincode":385520
+    },
+    {
+        "id": 5,
+        "name":"Mahedi",
+        "age":23,
+        "address":"Mahesana",
+        "mobile no.":7256669664,
+        "email":"mahedi@gmail.com",
+        "pincode":385520
+    }
+]
